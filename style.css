@@ -1,0 +1,47 @@
+body{
+    background-color: #73d35ba9;
+  }
+  
+  .container{
+    text-align: center;
+    margin: auto;
+    border-style: double;
+    border-radius: 10px;
+
+  }
+  h1{
+      font-family: cursive;
+  }
+  
+  table{
+    margin: auto;
+  }
+  
+  input{
+    font-size: 30px;
+    border: 3px solid black;
+    margin: 10px;
+  }
+  
+  button{
+    font-size: 40px;
+    width: 80px;
+    height: 57px;
+    color: #65cbd8;
+    background-color: black;
+    border-radius: 8px;
+    margin: 0px;
+  }
+  
+  button:hover{
+    cursor: pointer;
+    background-color: white;
+  }
+  
+  footer{
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    font-size: 25px;
+  }
